@@ -1,27 +1,18 @@
-# Cybersecurity Portfolio
+# Hi, I'm Marco! 👋
 
-Welcome to my Cybersecurity Portfolio!
+### Aspiring Cybersecurity Professional
 
-I am currently developing my skills in cybersecurity through structured learning, hands-on labs and practical projects.
+I'm currently studying the **Google Cybersecurity Professional Certificate** on Coursera and building my technical skills through hands-on labs and practical projects.
 
-## About Me
+### 🎯 Current Learning Goals
 
-I am an aspiring Cybersecurity Professional currently studying the Google Cybersecurity Professional Certificate on Coursera.
-
-My goal is to develop strong technical foundations and gain practical experience in cybersecurity.
-
-## Learning Path
-
-- Google Cybersecurity Professional Certificate
-- Linux Fundamentals
-- Networking and Network Security
+- Linux fundamentals and system administration
+- Networking and network security
 - Security Operations (SOC)
-- Vulnerability Assessment
-- Web Application Security
+- Vulnerability assessment
+- Web application security
 
-## Tools & Technologies
-
-Currently learning:
+### 🛠️ Technologies & Tools
 
 - Linux
 - Git & GitHub
@@ -30,16 +21,17 @@ Currently learning:
 - Python
 - Kali Linux
 
-## Practical Projects
+### 📚 Current Focus
 
-This repository will document my cybersecurity learning journey through:
+Developing practical cybersecurity skills through hands-on exercises, security labs and technical documentation.
 
-- Hands-on security labs
-- Linux administration exercises
-- Network analysis
-- Vulnerability assessment
-- Security documentation
+### 🚀 Career Objective
 
+My goal is to start a professional career in cybersecurity, continuously improving my technical knowledge and practical experience.
+
+---
+
+*Learning, building and documenting my journey into cybersecurity.*
 ## Career Goal
 
 My objective is to build the technical knowledge and practical skills required to start a professional career in cybersecurity.
